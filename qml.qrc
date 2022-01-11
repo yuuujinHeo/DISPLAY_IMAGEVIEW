@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>OneView.qml</file>
+        <file>image/image.png</file>
+    </qresource>
+</RCC>
